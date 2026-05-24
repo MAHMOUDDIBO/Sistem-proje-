@@ -1,1 +1,0 @@
-Tarsau uygulaması eklendi
