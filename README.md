@@ -87,5 +87,6 @@ $ ./tarsau -a bozuk.txt d2
 Arşiv dosyası uygunsuz veya bozuk!
 ```
 
+
 ## 5. Sonuç
 Proje istenilen spesifikasyonlara tam uygun olarak geliştirilmiş olup, herhangi bir sızıntı veya "segmentation fault" oluşturmadan sağlam (robust) bir şekilde çalışmaktadır. Öğrenilen teorik bilgilerin pratik uygulaması başarıyla tamamlanmıştır.
