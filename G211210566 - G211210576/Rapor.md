@@ -2,9 +2,8 @@
 
 **Proje Adı:** Tarsau - Arşivleme Programı
 **Dönem:** 2025-2026 Bahar Dönemi
-**Geliştirici Ekip:** G211210576-G211210566
-ogrenci adi soyadi: Mahmoud
-**GitHub Depo Adresi:** [https://github.com/MAHMOUDDIBO/tarsau-projesi](https://github.com/KULLANICI_ADINIZ/tarsau-projesi) *(Lütfen kendi linkiniz ile değiştiriniz)*
+**Geliştirici Ekip:** (Öğrenci numaralarınızı buraya giriniz, örn: b211210095, b211210024)
+**GitHub Depo Adresi:** [https://github.com/KULLANICI_ADINIZ/tarsau-projesi](https://github.com/KULLANICI_ADINIZ/tarsau-projesi) *(Lütfen kendi linkiniz ile değiştiriniz)*
 
 ## 1. Proje Özeti
 Bu projede, metin dosyalarını tek bir dosya (`.sau` uzantılı) içerisine sıkıştırmadan arşivleyen ve bu arşivden dosyaları orijinal izinleri ve boyutlarıyla geriye çıkaran, Unix/Linux ortamında C diliyle yazılmış `tarsau` isimli bir komut satırı programı geliştirilmiştir. Program `-b` parametresiyle arşivleme (birleştirme) ve `-a` parametresiyle arşivden çıkarma işlemlerini yürütmektedir.
@@ -86,7 +85,6 @@ resim.png giriş dosyasının formatı uyumsuz!
 $ ./tarsau -a bozuk.txt d2
 Arşiv dosyası uygunsuz veya bozuk!
 ```
-
 
 ## 5. Sonuç
 Proje istenilen spesifikasyonlara tam uygun olarak geliştirilmiş olup, herhangi bir sızıntı veya "segmentation fault" oluşturmadan sağlam (robust) bir şekilde çalışmaktadır. Öğrenilen teorik bilgilerin pratik uygulaması başarıyla tamamlanmıştır.

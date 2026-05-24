@@ -27,4 +27,3 @@ TarsauApp* TarsauApp_create(void);
 void TarsauApp_destroy(TarsauApp *app);
 
 #endif 
-
